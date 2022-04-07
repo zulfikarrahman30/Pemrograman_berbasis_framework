@@ -1,0 +1,75 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "img":"https://asset.kompas.com/crops/lBn741Zfsgl0gP8PSXD0M70MieA=/0x0:800x533/750x500/data/photo/2020/03/19/5e72f686aecce.jpg",
+        "name": "Mac Book Pro",
+        "deskripsi": "Processor apple M1, RAM 8gb, SSD 256gb, 13,3inch LED IPS screen",
+        "harga":"35.000.000",
+        "stock":"10"
+      },
+      {
+        "id": 2,
+        "img":"https://www.sigmbi.org/wp-content/uploads/Asus-ROG-GL553VD-FY280.jpg",
+        "name": "ROG GL553VD",
+        "deskripsi": "Processor core-17 7700, RAM 16gb, SSD 128gb, HDD 1TB, 17inch LED IPS screen",
+        "harga":"15.600.000",
+        "stock":"50"
+      },
+      {
+        "id": 3,
+        "img":"https://storage-asset.msi.com/global/picture/image/feature/nb/GF/Katana-GF66/images/photo-2.png",
+        "name": "MSI",
+        "deskripsi": "Processor Ryzen 5, RAM 8gb, SSD 256gb, 15inch LED IPS screen",
+        "harga":"12.000.000",
+        "stock":"10"
+      },
+      {
+        "id": 4,
+        "img":"https://asset.kompas.com/crops/lBn741Zfsgl0gP8PSXD0M70MieA=/0x0:800x533/750x500/data/photo/2020/03/19/5e72f686aecce.jpg",
+        "name": "Mac Book Air",
+        "deskripsi": "Processor apple M1, RAM 8gb, SSD 256gb, 13,3inch LED IPS screen",
+        "harga":"35.000.000",
+        "stock":"10"
+      },
+      {
+        "id": 5,
+        "img":"https://d1n6dbtoa2690v.cloudfront.net/article/5e9962a8b92c2ee04d8b4568/5e9962a8b92c2ee04d8b4568_1587115605.webp",
+        "name": "Lenovo Legion",
+        "deskripsi": "Processor Ryzen 7, RAM 8gb, SSD 512gb, 15inch LED IPS screen",
+        "harga":"21.500.000",
+        "stock":"36"
+      },
+      {
+        "id": 6,
+        "img":"https://akcdn.detik.net.id/visual/2021/09/23/hp-omen_169.jpeg?w=650",
+        "name": "HP Omen",
+        "deskripsi": "Processor Ryzen 7, RAM 8gb, SSD 512gb, 15inch LED IPS screen",
+        "harga":"23.500.000",
+        "stock":"36"
+      },
+      {
+        "id": 7,
+        "img":"https://cms.hybrid.co.id/wp-content/uploads/2021/01/acfba6385f3c97df5c9519c03255f463_acer-predator-triton-300-se-02.jpg",
+        "name": "Acer Predator",
+        "deskripsi": "Processor core-i10, RAM 8gb, SSD 512gb, 15inch LED IPS screen",
+        "harga":"21.500.000",
+        "stock":"36"
+      },
+      {
+        "id": 8,
+        "img":"https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Alienware_m17_R5_header.jpg",
+        "name": "Alienware",
+        "deskripsi": "Processor Ryzen 7, RAM 8gb, SSD 512gb, 15inch LED IPS screen",
+        "harga":"21.500.000",
+        "stock":"36"
+      },
+      {
+        "id": 9,
+        "img":"https://www.notebookcheck.net/uploads/tx_nbc2/4zu3_Razer_Blade_15_Advanced_Model_2020.jpg",
+        "name": "Razer",
+        "deskripsi": "Processor Ryzen 7, RAM 8gb, SSD 512gb, 15inch LED IPS screen",
+        "harga":"21.500.000",
+        "stock":"36"
+      }
+    ]}
