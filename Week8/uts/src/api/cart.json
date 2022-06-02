@@ -1,28 +1,3 @@
 {
-  "cart": [
-    {
-      "id": 1649914367843,
-      "image": "https://m.media-amazon.com/images/I/81mUcWMiW7L._AC_SX466_.jpg",
-      "nama": "Norcent 24 Inch 720P LED HD Backlight Flat DVD Combo TV, VGA USB HDMI Digital TV Tuner Cable, Build-in DVD Player Dual Channel 3W Speakers Monitor Television (24 inch)",
-      "harga": 60000000,
-      "stok": 8,
-      "productId": 1
-    },
-    {
-      "id": 1649914368544,
-      "image": "https://m.media-amazon.com/images/I/61--xSgNcQL._AC_SX466_.jpg",
-      "nama": "TCL 32-inch 3-Series 720p Roku Smart TV - 32S335, 2021 Model",
-      "harga": 12900000,
-      "stok": 10,
-      "productId": 2
-    },
-    {
-      "id": 1649914368952,
-      "image": "https://m.media-amazon.com/images/I/915Xj2rO8WL._AC_SX466_.jpg",
-      "nama": "SAMSUNG 40-inch Class LED Smart FHD TV 1080P (UN40N5200AFXZA, 2019 Model)",
-      "harga": 45000000,
-      "stok": 25,
-      "productId": 3
-    }
-  ]
+  "cart": []
 }
